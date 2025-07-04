@@ -1,19 +1,45 @@
 [
     {
         "id": "Arduino para principiantes",
-        "titulo": "Arduino para principiantes",
-        "descripcion": "CArduino para principiantes",
-        "img": "images/curso-arduino.png"
+        "Tipo_curso":"General",
+        "Titulo": "Arduino para principiantes",
+        "descripcion_breve": "Arduino para principiantes",
+        "img_index": "images/curso-arduino.png",
+        "Descripcion": "1La programación está presente en todas partes, y contar con habilidades de programación es fundamental en el mundo actual. En este curso práctico de introducción a Python, aprenderás de manera gradual desde los tipos de datos hasta la creación de tus propias funciones. A lo largo del curso, descubrirás los elementos básicos de programación, entenderás la sintaxis y estilo de Python, y al finalizar, serás capaz de desarrollar tus propios programas. Este curso es ideal para quienes quieren aprender los conceptos básicos de Python, sin necesidad de tener conocimientos previos.",
+        "img": "images/curso-python101.png",
+        "horario":"Del 9 al 19 de junio 2025. Lunes a jueves de 12pm a 2pm",
+        "Dirigido": "Público en general.",
+        "Requisitos": "Ninguno.",
+        "Duracion": "15 horas",
+        "Temario":"pdfs/PythonBasico.pdf"
       },
       {
           "id": "Fotografía vintage.",
-          "titulo": "Fotografía vintage.",
-          "descripcion": "Fotografía vintage.",
-          "img": "images/curso-vintage.png"
+          "Tipo_curso":"General",
+          "Titulo": "Fotografía vintage.",
+          "descripcion_breve": "Fotografía vintage.",
+          "img_index": "images/curso-vintage.png",
+          "Descripcion": "1La programación está presente en todas partes, y contar con habilidades de programación es fundamental en el mundo actual. En este curso práctico de introducción a Python, aprenderás de manera gradual desde los tipos de datos hasta la creación de tus propias funciones. A lo largo del curso, descubrirás los elementos básicos de programación, entenderás la sintaxis y estilo de Python, y al finalizar, serás capaz de desarrollar tus propios programas. Este curso es ideal para quienes quieren aprender los conceptos básicos de Python, sin necesidad de tener conocimientos previos.",
+          "img": "images/curso-python101.png",
+          "horario":"Del 9 al 19 de junio 2025. Lunes a jueves de 12pm a 2pm",
+          "Dirigido": "Público en general.",
+          "Requisitos": "Ninguno.",
+          "Duracion": "15 horas",
+          "Temario":"pdfs/PythonBasico.pdf"
       },
       {
           "id": "hIA desde cero: un curso práctico.",
-          "Titulo": "IA desde cero: un curso práctico."
+          "Tipo_curso":"General",
+          "Titulo": "IA desde cero: un curso práctico.",
+          "descripcion_breve": "IA desde cero: un curso práctico.",
+          "img_index": "images/curso-vintage.png",
+          "Descripcion": "1La programación está presente en todas partes, y contar con habilidades de programación es fundamental en el mundo actual. En este curso práctico de introducción a Python, aprenderás de manera gradual desde los tipos de datos hasta la creación de tus propias funciones. A lo largo del curso, descubrirás los elementos básicos de programación, entenderás la sintaxis y estilo de Python, y al finalizar, serás capaz de desarrollar tus propios programas. Este curso es ideal para quienes quieren aprender los conceptos básicos de Python, sin necesidad de tener conocimientos previos.",
+          "img": "images/curso-python101.png",
+          "horario":"Del 9 al 19 de junio 2025. Lunes a jueves de 12pm a 2pm",
+          "Dirigido": "Público en general.",
+          "Requisitos": "Ninguno.",
+          "Duracion": "15 horas",
+          "Temario":"pdfs/PythonBasico.pdf"
       },
       {
           "id": "Python básico",
@@ -31,20 +57,44 @@
       },
     {
       "id": "ChatGPT como herramienta en el aula.",
-      "titulo": "ChatGPT como herramienta en el aula.",
-      "descripcion": "Utilizar ChatGPT como una herramienta de apoyo educativo en el aula",
-      "img": "images/curso-chatgptaula.png"
+      "Tipo_curso":"Especialidad",
+      "Titulo": "ChatGPT como herramienta en el aula.",
+      "descripcion_breve": "Utilizar ChatGPT como una herramienta de apoyo educativo en el aula",
+      "img_index": "images/curso-chatgptaula.png",
+      "Descripcion": "1La programación está presente en todas partes, y contar con habilidades de programación es fundamental en el mundo actual. En este curso práctico de introducción a Python, aprenderás de manera gradual desde los tipos de datos hasta la creación de tus propias funciones. A lo largo del curso, descubrirás los elementos básicos de programación, entenderás la sintaxis y estilo de Python, y al finalizar, serás capaz de desarrollar tus propios programas. Este curso es ideal para quienes quieren aprender los conceptos básicos de Python, sin necesidad de tener conocimientos previos.",
+      "img": "images/curso-python101.png",
+      "horario":"Del 9 al 19 de junio 2025. Lunes a jueves de 12pm a 2pm",
+      "Dirigido": "Público en general.",
+      "Requisitos": "Ninguno.",
+      "Duracion": "15 horas",
+      "Temario":"pdfs/PythonBasico.pdf"
     },
     {
         "id": "Taller en Energías Renovables.",
-        "titulo": "Taller en Energías Renovables.",
-        "descripcion": "Introducción a las energías renovables",
-        "img": "images/curso-er.png"
+        "Tipo_curso":"Especialidad",
+        "Titulo": "Taller en Energías Renovables.",
+        "descripcion_breve": "Introducción a las energías renovables",
+        "img_index": "images/curso-er.png",
+        "Descripcion": "1La programación está presente en todas partes, y contar con habilidades de programación es fundamental en el mundo actual. En este curso práctico de introducción a Python, aprenderás de manera gradual desde los tipos de datos hasta la creación de tus propias funciones. A lo largo del curso, descubrirás los elementos básicos de programación, entenderás la sintaxis y estilo de Python, y al finalizar, serás capaz de desarrollar tus propios programas. Este curso es ideal para quienes quieren aprender los conceptos básicos de Python, sin necesidad de tener conocimientos previos.",
+        "img": "images/curso-python101.png",
+        "horario":"Del 9 al 19 de junio 2025. Lunes a jueves de 12pm a 2pm",
+        "Dirigido": "Público en general.",
+        "Requisitos": "Ninguno.",
+        "Duracion": "15 horas",
+        "Temario":"pdfs/PythonBasico.pdf"
     },
     {
         "id": "Seguridad láser en la práctica médica",
-        "titulo": "Seguridad láser en la práctica médica",
-        "descripcion": "curso-seguridad-laser.png",
-        "img": "images/curso-seguridad-laser.png"
+        "Tipo_curso":"Especialidad",
+        "Titulo": "Seguridad láser en la práctica médica",
+        "descripcion_breve": "curso-seguridad-laser.png",
+        "img_index": "images/curso-seguridad-laser.png",
+        "Descripcion": "1La programación está presente en todas partes, y contar con habilidades de programación es fundamental en el mundo actual. En este curso práctico de introducción a Python, aprenderás de manera gradual desde los tipos de datos hasta la creación de tus propias funciones. A lo largo del curso, descubrirás los elementos básicos de programación, entenderás la sintaxis y estilo de Python, y al finalizar, serás capaz de desarrollar tus propios programas. Este curso es ideal para quienes quieren aprender los conceptos básicos de Python, sin necesidad de tener conocimientos previos.",
+        "img": "images/curso-python101.png",
+        "horario":"Del 9 al 19 de junio 2025. Lunes a jueves de 12pm a 2pm",
+        "Dirigido": "Público en general.",
+        "Requisitos": "Ninguno.",
+        "Duracion": "15 horas",
+        "Temario":"pdfs/PythonBasico.pdf"
     }
 ]
