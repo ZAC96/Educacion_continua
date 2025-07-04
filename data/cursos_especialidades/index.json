@@ -16,11 +16,5 @@
         "titulo": "Seguridad láser en la práctica médica",
         "descripcion": "curso-seguridad-laser.png",
         "img": "images/curso-seguridad-laser.png"
-    },
-    {
-        "id": "Python básico",
-        "titulo": "Python básico",
-        "descripcion": "Python para principiantes",
-        "img": "images/curso-python101.png"
     }
 ]
