@@ -1,0 +1,26 @@
+[
+    {
+      "id": "html-basico",
+      "titulo": "HTML Básico",
+      "descripcion": "Curso introductorio de HTML",
+      "img": "images/cicese.png"
+    },
+    {
+        "id": "html-basico2",
+        "titulo": "HTML Básico 2",
+        "descripcion": "Curso introductorio de HTML 2",
+        "img": "images/cicese.png"
+    },
+    {
+        "id": "html-basico3",
+        "titulo": "HTML Básico 3",
+        "descripcion": "Curso introductorio de HTML 3",
+        "img": "images/cicese.png"
+    },
+    {
+        "id": "html-basico2",
+        "titulo": "HTML Básico 3",
+        "descripcion": "Curso introductorio de HTML 3",
+        "img": "images/cicese.png"
+    }
+]
