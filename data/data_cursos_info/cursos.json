@@ -11,7 +11,9 @@
         "Dirigido": "Público en general.",
         "Requisitos": "Ninguno.",
         "Duracion": "15 horas",
-        "Temario":"pdfs/PythonBasico.pdf"
+        "Temario":"pdfs/PythonBasico.pdf",
+        "Mes":"Jun",
+        "Dia":"9"
       },
       {
           "id": "Fotografía vintage.",
@@ -25,35 +27,41 @@
           "Dirigido": "Público en general.",
           "Requisitos": "Ninguno.",
           "Duracion": "15 horas",
-          "Temario":"pdfs/PythonBasico.pdf"
+          "Temario":"pdfs/PythonBasico.pdf",
+          "Mes":"Jun",
+          "Dia":"9"
       },
       {
           "id": "hIA desde cero: un curso práctico.",
           "Tipo_curso":"General",
           "Titulo": "IA desde cero: un curso práctico.",
           "descripcion_breve": "IA desde cero: un curso práctico.",
-          "img_index": "images/curso-IA101.png",
+          "img_index": "images/curso-vintage.png",
           "Descripcion": "La programación está presente en todas partes, y contar con habilidades de programación es fundamental en el mundo actual. En este curso práctico de introducción a Python, aprenderás de manera gradual desde los tipos de datos hasta la creación de tus propias funciones. A lo largo del curso, descubrirás los elementos básicos de programación, entenderás la sintaxis y estilo de Python, y al finalizar, serás capaz de desarrollar tus propios programas. Este curso es ideal para quienes quieren aprender los conceptos básicos de Python, sin necesidad de tener conocimientos previos.",
           "img": "images/curso-python101.png",
           "horario":"Del 9 al 19 de junio 2025. Lunes a jueves de 12pm a 2pm",
           "Dirigido": "Público en general.",
           "Requisitos": "Ninguno.",
           "Duracion": "15 horas",
-          "Temario":"pdfs/PythonBasico.pdf"
+          "Temario":"pdfs/PythonBasico.pdf",
+          "Mes":"Jun",
+          "Dia":"9"
       },
       {
           "id": "Python básico",
           "Tipo_curso":"General",
           "Titulo": "Python básico",
           "descripcion_breve":"Python para principiantes",
-          "img_index": "images/curso-python101.png",
+          "img_index": "images/curso-arduino.png",
           "Descripcion": "La programación está presente en todas partes, y contar con habilidades de programación es fundamental en el mundo actual. En este curso práctico de introducción a Python, aprenderás de manera gradual desde los tipos de datos hasta la creación de tus propias funciones. A lo largo del curso, descubrirás los elementos básicos de programación, entenderás la sintaxis y estilo de Python, y al finalizar, serás capaz de desarrollar tus propios programas. Este curso es ideal para quienes quieren aprender los conceptos básicos de Python, sin necesidad de tener conocimientos previos.",
           "img": "images/curso-python101.png",
           "horario":"Del 9 al 19 de junio 2025. Lunes a jueves de 12pm a 2pm",
           "Dirigido": "Público en general.",
           "Requisitos": "Ninguno.",
           "Duracion": "15 horas",
-          "Temario":"pdfs/PythonBasico.pdf"
+          "Temario":"pdfs/PythonBasico.pdf",
+          "Mes":"Jun",
+          "Dia":"9"
       },
     {
       "id": "ChatGPT como herramienta en el aula.",
@@ -67,7 +75,9 @@
       "Dirigido": "Público en general.",
       "Requisitos": "Ninguno.",
       "Duracion": "15 horas",
-      "Temario":"pdfs/PythonBasico.pdf"
+      "Temario":"pdfs/PythonBasico.pdf",
+      "Mes":"Jun",
+      "Dia":"9"
     },
     {
         "id": "Taller en Energías Renovables.",
@@ -81,7 +91,9 @@
         "Dirigido": "Público en general.",
         "Requisitos": "Ninguno.",
         "Duracion": "15 horas",
-        "Temario":"pdfs/PythonBasico.pdf"
+        "Temario":"pdfs/PythonBasico.pdf",
+        "Mes":"Jun",
+        "Dia":"9"
     },
     {
         "id": "Seguridad láser en la práctica médica",
@@ -95,6 +107,8 @@
         "Dirigido": "Público en general.",
         "Requisitos": "Ninguno.",
         "Duracion": "15 horas",
-        "Temario":"pdfs/PythonBasico.pdf"
+        "Temario":"pdfs/PythonBasico.pdf",
+        "Mes":"Jun",
+        "Dia":"9"
     }
 ]
