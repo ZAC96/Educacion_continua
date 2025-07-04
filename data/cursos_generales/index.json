@@ -1,0 +1,26 @@
+[
+    {
+      "id": "Arduino para principiantes",
+      "titulo": "Arduino para principiantes",
+      "descripcion": "CArduino para principiantes",
+      "img": "images/curso-arduino.png"
+    },
+    {
+        "id": "Fotografía vintage.",
+        "titulo": "Fotografía vintage.",
+        "descripcion": "Fotografía vintage.",
+        "img": "images/curso-vintage.png"
+    },
+    {
+        "id": "hIA desde cero: un curso práctico.",
+        "titulo": "IA desde cero: un curso práctico.",
+        "descripcion": "Nociones básicas de IA",
+        "img": "images/curso-IA101.png"
+    },
+    {
+        "id": "Python básico",
+        "titulo": "Python básico",
+        "descripcion": "Python para principiantes",
+        "img": "images/curso-python101.png"
+    }
+]
