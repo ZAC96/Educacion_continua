@@ -1,26 +1,26 @@
 [
     {
-      "id": "html-basico",
-      "titulo": "HTML Básico",
-      "descripcion": "Curso introductorio de HTML",
-      "img": "images/cicese.png"
+      "id": "Arduino para principiantes",
+      "titulo": "Arduino para principiantes",
+      "descripcion": "CArduino para principiantes",
+      "img": "images/curso-arduino.png"
     },
     {
-        "id": "html-basico2",
-        "titulo": "HTML Básico 2",
-        "descripcion": "Curso introductorio de HTML 2",
+        "id": "Fotografía vintage.",
+        "titulo": "Fotografía vintage.",
+        "descripcion": "Fotografía vintage.",
+        "img": "images/curso-vintage.png"
+    },
+    {
+        "id": "hIA desde cero: un curso práctico.",
+        "titulo": "IA desde cero: un curso práctico.",
+        "descripcion": "Nociones básicas de IA",
         "img": "images/cicese.png"
     },
     {
-        "id": "html-basico3",
-        "titulo": "HTML Básico 3",
-        "descripcion": "Curso introductorio de HTML 3",
-        "img": "images/cicese.png"
-    },
-    {
-        "id": "html-basico2",
-        "titulo": "HTML Básico 3",
-        "descripcion": "Curso introductorio de HTML 3",
-        "img": "images/cicese.png"
+        "id": "Python básico",
+        "titulo": "Python básico",
+        "descripcion": "Python para principiantes",
+        "img": "images/curso-python101.png"
     }
 ]
