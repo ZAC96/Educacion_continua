@@ -1,0 +1,26 @@
+[
+    {
+      "id": "ChatGPT como herramienta en el aula.",
+      "titulo": "ChatGPT como herramienta en el aula.",
+      "descripcion": "Utilizar ChatGPT como una herramienta de apoyo educativo en el aula",
+      "img": "images/curso-chatgptaula.png"
+    },
+    {
+        "id": "FTaller en Energías Renovables.",
+        "titulo": "Taller en Energías Renovables.",
+        "descripcion": "Introducción a las energías renovables",
+        "img": "images/curso-er.png"
+    },
+    {
+        "id": "Seguridad láser en la práctica médica",
+        "titulo": "Seguridad láser en la práctica médica",
+        "descripcion": "curso-seguridad-laser.png",
+        "img": "images/curso-seguridad-laser.png"
+    },
+    {
+        "id": "Python básico",
+        "titulo": "Python básico",
+        "descripcion": "Python para principiantes",
+        "img": "images/curso-python101.png"
+    }
+]
