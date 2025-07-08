@@ -1,0 +1,52 @@
+[
+    {
+        "Name":"M. en C. Enrique Guerrero Arbona",
+        "Descripcion":"Es egresado de la Licenciatura en Ingeniería en Electrónica del Instituto Tecnológico de Ciudad Madero en 2009. Obtuvo el grado de Maestro en Ciencias en Electrónica y Telecomunicaciones, con orientación en Telecomunicaciones, en el CICESE en 2012. Desde el 2013 al 2020 formó parte del grupo de investigación y desarrollo ARTS del CICESE participó en proyectos tecnológicos vinculados con entidades públicas y privadas, entre los que destacan los realizados con entidades como: PLAMEX, Secretaría de Salud y Bienestar Social del Estado de Colima, SEDENA, CIGoM. Asimismo, cuenta con 2 patentes otorgadas y 2 diseños industriales como co-inventor; además, figura como co-autor en 2 registros de derechos de autor de programas computacionales. A partir de octubre de 2020 y a la fecha se desempeña como Técnico Titular de la División de Física aplicada en CICESE formando parte del Grupo de Desarrollo Tecnológico de la División, donde aporta sus conocimientos, habilidades y experiencia en vinculación, tecnologías de telecomunicaciones, programación de sistemas embebidos, y diseño electrónico, entre otras, para el desarrollo de soluciones innovadoras en el ámbito científico, tecnológico e industrial.",
+        "img":"images/GUERRERO_ARBONA_ENRIQUE.jpg"
+    },
+    {
+        "Name":"M. en C. Kaishi Romero Shiro Tadasuky",
+        "Descripcion":"Egresado de la Licenciatura en Ingeniería Electrónica del Instituto Tecnológico de Tijuana en 2010. Obtuvo el grado de Maestro en Ciencias en Electrónica y Telecomunicaciones, con orientación en Telecomunicaciones, en el CICESE en 2012. Desde el 2013 al 2020 como parte del grupo de investigación y desarrollo ARTS del CICESE participó en proyectos tecnológicos vinculados con entidades públicas y privadas, entre los que destacan los realizados con entidades como: PLAMEX - Evaluación de desempeño de tecnología Inalambrica emergente. SEDENA - Módulos de tecnología AeroEspacial. CIGoM - Sistema de comunicaciones inalámbricas de larga distancia para monitoreo marítimo. Además, ha impulsado y apoyado en el desarrollo del sistema de medición de somatometría y signos vitales llamado a-Prevenir. Asimismo, cuenta con 2 patentes otorgadas como inventor, 2 diseños industriales y 4 registros de derecho de autor de programas computacionales. A partir de octubre de 2020 forma parte del Grupo de I+D+i (Investigación, Desarrollo e innovación) de la División de Física Aplicada en CICESE, donde aporta sus conocimientos, habilidades y experiencia en tecnologías de telecomunicaciones, programación de sistemas embebidos, y diseño de circuitos electrónicos impresos, entre otras, para el desarrollo de soluciones innovadoras en el ámbito científico, tecnológico e industrial.",
+        "img":"images/KAISHI_ROMERO_SHIRO_TADASUKY.jpg"
+    },
+    {
+        "Name":"Dr. Víctor Ruiz Cortés",
+        "Descripcion":"Obtuvo el título de Ingeniero Físico Industrial por parte del ITESM, el grado de Maestro en Ciencia con especialidad en Óptica por parte del Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE) y el grado de Doctor en Ciencias por parte del Imperial College of Science, Technology and Medicine, en Londres Inglaterra. Desde 1999 es Investigador titular en el Departamento de Óptica del CICESE y sus áreas de interés son: el confinamiento óptico que es una técnica que utiliza la presión de radiación óptica para controlar y manipular partículas microscópicas incluyendo células biológicas y microorganismos; experimentación en la manipulación de micropartículas con un sistema de pinzas ópticas; en el área plasmónica, estudia el comportamiento de nano-estructuras que cuando interaccionen con la luz, sus propiedades de esparcimiento semejen una antena óptica; y en microfluídica que, en conjunto en la óptica, abre una nueva área de estudio que permitirá la manipulación de partículas en sistemas de microcanales.",
+        "img":"images/RUIZ_CORTES_VICTOR.jpg"
+    },
+    {
+        "Name":"Dr. Irvin Hussein López Nava",
+        "Descripcion":"El Dr. Irvin Hussein López Nava es Doctor en Ciencias de la Computación y realiza investigación enfocada en aplicar técnicas de Inteligencia Artificial (IA) a datos multimodales. Tiene más de 10 años de experiencia impartiendo clases a nivel superior y posgrado. Además, ha dirigido más de 14 tesis a nivel posgrado orientadas a utilizar técnicas de IA para el reconocimiento de actividad y comportamiento humano, medición y análisis del movimiento humano, análisis de texto en redes sociales, traducción automática de la Lengua de Señas Mexicana, entre otros proyectos. Ha publicado más de 40 artículos en conferencias y revistas de alto impacto en el área de Computación. Actualmente es Investigador en el Departamento de Ciencias de la Computación del CICESE, profesor de asignatura en la Facultad de Ciencias de la UABC, miembro del Sistema Nacional de Investigadores y de la Academia Mexicana de Computación.",
+        "img":"images/LOPEZ_NAVA_IRVIN_HUSSEIN.jpg"
+    },
+    {
+        "Name":"M.C. Joan Raygoza Romero",
+        "Descripcion":"El M.C. Joan Raygoza Romero es un especialista en Ciencias de la Computación, con una destacada trayectoria en la aplicación de técnicas avanzadas de inteligencia artificial (IA) para abordar desafíos complejos en campos como la astrofísica y el análisis de grandes volúmenes de datos. Actualmente, cursa su doctorado en el CICESE, donde desarrolla innovadoras metodologías basadas en IA para la inferencia de datos astronómicos. Su experiencia en redes neuronales y algoritmos de optimización lo ha llevado a participar en proyectos de gran relevancia, como el uso de aprendizaje profundo para la medición del campo magnético estelar, la detección automática de sexismo en memes, y el reconocimiento del tiburón ballena. Además, ha contribuido en varias publicaciones en conferencias y revistas especializadas, aplicando técnicas avanzadas de inteligencia artificial para impulsar la investigación científica.",
+        "img":"images/RAYGOZA_ROMERO_JOAN.jpg"
+    },
+    {
+        "Name":"M. en C. Luis Enrique Canul Arceo",
+        "Descripcion":"Es Licenciado en Ciencias de la computación por la Universidad Autónoma de Yucatán, vino al CICESE a estudiar la maestría en Ciencias de la computación, generación 2015-2017, se ha especializado en el desarrollo de software y está certificado por Amazon Web Services como “AWS Certified Cloud Practitioner”. Desde 2020, es técnico titular en el Departamento de Ciencias de la Computación, a cargo del diseño, desarrollo y mantenimiento de sistemas de información.",
+        "img":"images/CANUL_ARCEO_LUIS_ENRIQUE.jpg"
+    },
+    {
+        "Name":"Dr. Edgar Chávez",
+        "Descripcion":"Edgar Chávez es un investigador con intereses en algoritmos computacionales aplicados a diversas áreas de las ciencias de la computación. Sus principales contribuciones han sido en índices sobre espacios métricos, extracción de características robustas para multimedia, estructuras de datos sucintas y geometría discreta. Ha publicado artículos influyentes, incluyendo un survey sobre índices métricos que se encuentra entre los más citados en su campo. Actualmente está interesado en la reducción del tamaño de las redes neuronales utilizando métodos de álgebra lineal. Sus trabajos han recibido amplio interés académico e industrial, acumulando alrededor de 5500 citas en Google Scholar.",
+        "img":"images/CHAVEZ_EDGAR.jpg"
+    },
+    {
+        "Name":"Dra. Isabel López",
+        "Descripcion":"La Dra. Isabel López comenzó su carrera académica como estudiante de licenciatura en psicología, donde participó en proyectos comunitarios y proyectos de servicio profesional en el campo de la educación. En 2014, recibió una beca Fulbright-García Robles para financiar sus estudios en el programa de maestría de Psicología Educativa de la Universidad de Minnesota. En esta misma institución completó el grado de doctorado, con una especialización en procesos socioemocionales y métodos cuantitativos en educación. Actualmente, la Dra. López realiza una estancia posdoctoral en el departamento de Ciencias de Computación en el CICESE, donde está trabajando en temas de inteligencia artificial generativa en la educación. Su interés actual se centra en explorar el uso y potencial de herramientas digitales, con un énfasis en aquellas basadas en la inteligencia artificial, para el uso de maestros y estudiantes.",
+        "img":"images/LOPEZ_HURTADO_ISABEL.jpg"
+    },
+    {
+        "Name":"Dr. Francisco Carranza Chávez",
+        "Descripcion":"Investigador por México asignado al Laboratorio de Energías Renovables, perteneciente al Departamento de Electrónica y Telecomunicaciones del Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE), Baja California. Es Ingeniero Mecánico por el Instituto Tecnológico de Morelia, Maestro en Ciencias en Ingeniería Mecánica con Especialidad en Energía por el Instituto Politécnico Nacional y Doctor en Filosofía (PhD) por la Universidad de Sheffield, Reino Unido. Su trabajo de investigación está enfocado en la desalinización de agua de mar con energía renovable y la generación de calor solar de proceso.",
+        "img":"images/CARRANZA_CHAVEZ_FRANCISCO_JAVIER.jpg"
+    },
+    {
+        "Name":"Dr. Gibraham Alejandro Graciano Armenta",
+        "Descripcion":"En el 2017 el Dr. Gibraham Graciano obtuvo su grado de Doctor en Ciencias en Óptica, con orientación en optoelectrónica, por el CICESE. En esta misma institución, pero el 2011 obtuvo su grado de Maestro en Ciencias en Óptica, con orientación en optoelectrónica. En el 2009 obtuvo su grado de Ingeniero en Electrónica por el Instituto Tecnológico de México. Desde el 2020 se desempeña como Técnico Titular C en el Laboratorio de Micromaquinado Óptico y Litografía Láser del CICESE. Desde el 2014 es profesor de asignatura en el Centro de Nanociencias y Nanotecnología de la UNAM. El Dr. Graciano cuenta con una certificación (L3808) como Oficial de Seguridad Láser por The Board of Laser Safety de EUA, así como un Diplomado en Docencia por parte de la UNAM, y una capacitación en Fabricación Backend de Semiconductores por parte del Gobierno de Baja California. El Dr. Graciano ha impartido cursos de seguridad y tecnología láser para diferentes corporaciones internacionales.",
+        "img":"images/GRACIANO_ARMENTA _GIBRAHAM_ALEJANDRO.jpg"
+    }
+]
